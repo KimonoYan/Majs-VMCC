@@ -1,2 +1,2 @@
 # Majs-VMCC
-Virtual Machine Control Program for Majs Game
+Virtual Machine Center Control Program for Majs Game
